@@ -1,6 +1,9 @@
 # This is the file where you must work. Write code in the functions, create new functions, 
 # so they work according to the specification
 
+import operator
+import csv
+
 # Displays the inventory.
 def display_inventory(inventory):
     total = 0
